@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BoardData.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="City.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="CityCard.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleGraphics.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Deck.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Gameplay.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Init.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerData.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoardData.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="City.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CityCard.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleGraphics.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Deck.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Gameplay.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="EVirus.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Init.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerData.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{b7aa3de5-48bf-4ee8-98c8-3aeff3379b91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{2122059a-f374-486e-a809-97abdec6c1b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
